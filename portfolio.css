@@ -1,0 +1,49 @@
+body{
+    background-image:url(img.png);
+    color: aliceblue;
+}
+#home{background-color: purple;
+    
+
+}
+.topmenu{
+    color:white;
+    font-size:larger;
+    
+}
+.topmenu:hover{
+    color:white
+    
+}
+h1{
+    text-align: center;
+}
+.image{
+    text-align: center;
+}
+.container p{
+    float:right;
+    text-align: center;
+}
+h2{
+    color:purple;
+    font-size: 350%;
+    text-align: center;
+}
+fieldset{
+    width:400px;
+}
+h3{
+    color: blue;
+    font-size: 50px;
+}
+.recommendation{
+    display: flex;
+    text-align: center;
+    border: 2px solid purple;
+    padding: 20px;
+    border-radius: 15px;
+    width: 300px;
+    box-shadow: 0 5px 15px rgba(0,0,0,0.3);
+}
+
